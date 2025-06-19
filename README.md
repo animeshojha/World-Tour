@@ -45,7 +45,7 @@ npm run dev
 ```
 📁 Project Structure
 
-World-Tour/
+## World-Tour/
 │
 ├── public/
 │   └── index.html
