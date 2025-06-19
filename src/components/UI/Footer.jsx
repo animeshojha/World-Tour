@@ -55,7 +55,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <NavLink
-                    to="https://www.github.com/animeshojha"
+                    to="https://www.github.com/animeshojha/World-Tour"
                     target="_blank"
                   >
                     Source Code
