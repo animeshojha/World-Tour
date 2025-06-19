@@ -39,8 +39,8 @@ Ensure you have the following installed:
 git clone https://github.com/animeshojha/World-Tour.git
 cd World-Tour
 npm install
-npm start
-
+npm i react-router-dom
+npm run dev
 
 ```
 📁 Project Structure
